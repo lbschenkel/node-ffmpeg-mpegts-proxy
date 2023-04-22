@@ -17,7 +17,7 @@
     "url": "http://github.com/Jalle19/node-ffmpeg-mpegts-proxy/issues"
   },
   "dependencies": {
-    "chokidar": "^1.6.1",
+    "chokidar": "^3.5.3",
     "command-exists": "^1.0.2",
     "executable": "^4.1.0",
     "sleep": "^4.0.0",
